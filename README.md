@@ -165,10 +165,6 @@ This project helped strengthen my understanding of how Excel is used in finance,
 * Microsoft Excel
 * GitHub
 
-## Project Status
-
-Completed
-
 ## Note
 
 All data used in this project is fictional and created for portfolio/practice purposes only.
